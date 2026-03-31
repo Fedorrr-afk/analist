@@ -78,3 +78,4 @@ data = get_quality(normal)
 
 create_bar(models, data)
 create_radial(models, name_char, normal)
+print("Версия изменилась")
